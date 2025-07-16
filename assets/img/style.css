@@ -4,13 +4,28 @@
     box-sizing: border-box;
 }
 
-.header-Conterner{
-    padding: 40px;
+.header-Contener{
+    background-color: rgb(245, 244, 244);
+    color: rgb(20, 20, 20);
+    padding: 40px 0 60px
+    0;
     
 }
 
 h1{ 
     text-align: center;
-
+    
 }
+
+.Nav{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+    top: 0px;
+    padding:0 6px ;
+    
+}
+
+
+
 
